@@ -4,7 +4,7 @@
   <a href="./README-ch.md">中文</a>
 </p>
 
-## Hola!!!, Yo soy Dimas Castañeda aka D1M4S4, apasionado chamo de las Ciencias Computacionales, Ing. Electronica y Aeroespacial.
+## Hola!!!, Yo soy Dimas Castañeda, aka D1M4S4 apasionado chamo de las Ciencias Computacionales, Ing. Electronica y Aeroespacial.
 
 ## BACKEND Developer: 
 <p align="center">
