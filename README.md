@@ -6,7 +6,7 @@
 
 ## Hola!!!, yo soy Dimas Castañeda aka D1M4S4 apasionado chamo de las Ciencias Computacionales, Electronica e Ingeniería Aeroespacial.
 
-## Programador BACKEND: 
+## BACKEND Developer: 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" />
 </p>
