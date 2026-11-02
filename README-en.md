@@ -2,5 +2,5 @@
 
 ## I'm BACKEND Developer: 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=linux,neovim,bash,python,git,github,arduino" />
 </p>
