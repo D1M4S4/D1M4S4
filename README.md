@@ -4,6 +4,8 @@
   <a href="./README-ch.md">中文</a>
 </p>
 
+![](images/1.jpg)
+
 ## Hola!!!, Yo soy Dimas Castañeda, aka D1M4S4 apasionado chamo de las Ciencias Computacionales, Ing. Aeroespacial y Electronica.
 
 ## BACKEND Developer: 
